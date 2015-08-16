@@ -5,7 +5,7 @@ It is a typing game which can help you to improve your typing skills. In this ga
 
 Download Executable
 ---
-[RainingLetters.zip (1.72 Mb)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/RainingLetters.zip)
+[RainingLetters.zip (1.72 Mb)](https://github.com/BitSits/RainingLetters-Assets/raw/master/RainingLetters.zip)
 
 
 Instructions
