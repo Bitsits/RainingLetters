@@ -38,10 +38,6 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 [XNA Framework Redistributable 3.1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
 [Windows Installer 3.1]: http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=889482fc-5f56-4a38-b838-de776fd4138c
 
-[Creator Club’s GameState Management sample]: http://creators.xna.com/en-US/samples/gamestatemanagement
-[XNA Stater Kit: Platformer]: http://msdn.microsoft.com/en-us/library/dd254918.aspx
-[Microsoft Permissive License.rtf]: http://creators.xna.com/downloads/?id=15
-
 [Creative Commons Sampling Plus 1.0 License]: http://creativecommons.org/licenses/sampling+/1.0/
 [Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-sa/3.0/
